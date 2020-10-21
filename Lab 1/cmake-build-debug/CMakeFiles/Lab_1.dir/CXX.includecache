@@ -7,6 +7,14 @@
 #IncludeRegexTransform: 
 
 C:/Users/woosal/Documents/GitHub/Medipol-C-CPP/Lab 1/main.cpp
+cmath
+-
+cstdio
+-
+vector
+-
 iostream
+-
+algorithm
 -
 
