@@ -21,7 +21,7 @@ int main() {
 
         // Ending the while loop if either the userInput is 450, or array is exceeded 250
         if (userIntInput == 450 || totalUserInput == 250) {
-
+            totalUserInput++;
             theMaxValue = userList[0];
             for (int i=0; i<totalUserInput; i++) {
                 if (userList[i] > theMaxValue) {
