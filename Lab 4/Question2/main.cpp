@@ -1,3 +1,5 @@
+// Name: Vusal Ismayilov    Student ID: 64190012    Faculty: Computer Engineering
+
 #include <iostream>
 using namespace std;
 
