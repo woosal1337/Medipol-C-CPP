@@ -13,8 +13,8 @@ int main() {
 
     while (cin >> i) {
         total += i;
+        cout << total << endl;
     }
-    cout << total << endl;
 
     return 0;
 }

@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/woosal/Documents/GitHub/Medipol-C-CPP/Lab 1/main.cpp" "C:/Users/woosal/Documents/GitHub/Medipol-C-CPP/Lab 1/cmake-build-debug/CMakeFiles/Lab_1.dir/main.cpp.obj"
+  "/media/woosal/HDD/GitHub/Medipol-C-CPP/Lab 1/main.cpp" "/media/woosal/HDD/GitHub/Medipol-C-CPP/Lab 1/cmake-build-debug/CMakeFiles/Lab_1.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
