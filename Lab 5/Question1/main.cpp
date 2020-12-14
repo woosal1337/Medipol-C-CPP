@@ -47,7 +47,7 @@ void Rational::operator/(Rational c1) {
     Rational temp;
     temp.numerator = numerator * c1.denominator;
     temp.denominator = c1.numerator * denominator;
-    cout << "\nRational Divison: " << temp.numerator << "\\" << temp.denominator;
+    cout << "\nRational Division: " << temp.numerator << "\\" << temp.denominator;
 }
 
 
@@ -65,5 +65,6 @@ int main() {
     x * y;
     x / y;
 
+    cout << "\n";
     return 0;
 }
