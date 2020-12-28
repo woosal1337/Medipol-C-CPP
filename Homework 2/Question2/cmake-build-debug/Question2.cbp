@@ -84,12 +84,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/GitHub/Medipol-C-CPP/Homework 2/Question2/demo.cpp">
-			<Option target="Question2"/>
-		</Unit>
-		<Unit filename="D:/GitHub/Medipol-C-CPP/Homework 2/Question2/demo.h">
-			<Option target="Question2"/>
-		</Unit>
 		<Unit filename="D:/GitHub/Medipol-C-CPP/Homework 2/Question2/main.cpp">
 			<Option target="Question2"/>
 		</Unit>

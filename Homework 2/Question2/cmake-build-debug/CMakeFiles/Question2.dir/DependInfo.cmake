@@ -4,7 +4,6 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/GitHub/Medipol-C-CPP/Homework 2/Question2/demo.cpp" "D:/GitHub/Medipol-C-CPP/Homework 2/Question2/cmake-build-debug/CMakeFiles/Question2.dir/demo.cpp.obj"
   "D:/GitHub/Medipol-C-CPP/Homework 2/Question2/main.cpp" "D:/GitHub/Medipol-C-CPP/Homework 2/Question2/cmake-build-debug/CMakeFiles/Question2.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")

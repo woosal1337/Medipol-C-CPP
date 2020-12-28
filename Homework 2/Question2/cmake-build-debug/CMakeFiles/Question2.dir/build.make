@@ -80,38 +80,17 @@ CMakeFiles\Question2.dir\main.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Question2.dir\main.cpp.s /c "D:\GitHub\Medipol-C-CPP\Homework 2\Question2\main.cpp"
 <<
 
-CMakeFiles\Question2.dir\demo.cpp.obj: CMakeFiles\Question2.dir\flags.make
-CMakeFiles\Question2.dir\demo.cpp.obj: ..\demo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\GitHub\Medipol-C-CPP\Homework 2\Question2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Question2.dir/demo.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Question2.dir\demo.cpp.obj /FdCMakeFiles\Question2.dir\ /FS -c "D:\GitHub\Medipol-C-CPP\Homework 2\Question2\demo.cpp"
-<<
-
-CMakeFiles\Question2.dir\demo.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Question2.dir/demo.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe > CMakeFiles\Question2.dir\demo.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\GitHub\Medipol-C-CPP\Homework 2\Question2\demo.cpp"
-<<
-
-CMakeFiles\Question2.dir\demo.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Question2.dir/demo.cpp.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Question2.dir\demo.cpp.s /c "D:\GitHub\Medipol-C-CPP\Homework 2\Question2\demo.cpp"
-<<
-
 # Object files for target Question2
 Question2_OBJECTS = \
-"CMakeFiles\Question2.dir\main.cpp.obj" \
-"CMakeFiles\Question2.dir\demo.cpp.obj"
+"CMakeFiles\Question2.dir\main.cpp.obj"
 
 # External object files for target Question2
 Question2_EXTERNAL_OBJECTS =
 
 Question2.exe: CMakeFiles\Question2.dir\main.cpp.obj
-Question2.exe: CMakeFiles\Question2.dir\demo.cpp.obj
 Question2.exe: CMakeFiles\Question2.dir\build.make
 Question2.exe: CMakeFiles\Question2.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\GitHub\Medipol-C-CPP\Homework 2\Question2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Question2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\GitHub\Medipol-C-CPP\Homework 2\Question2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Question2.exe"
 	C:\Users\Vusal\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.5981.166\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\Question2.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\Question2.dir\objects1.rsp @<<
  /out:Question2.exe /implib:Question2.lib /pdb:"D:\GitHub\Medipol-C-CPP\Homework 2\Question2\cmake-build-debug\Question2.pdb" /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
